@@ -1,0 +1,101 @@
+{
+  "name": "Christos Kipouros",
+  "dateOfBirth": "19900221",
+  "groups": [
+    {
+      "label": "personal",
+      "color": "#52b0ef",
+      "subgroups": [
+        {
+          "label": "✉️email",
+          "links": [
+            {
+              "label": "gmail",
+              "url": "https://accounts.google.com/signin/v2/identifier?continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&service=mail&sacu=1&rip=1&hl=en&flowName=GlifWebSignIn&flowEntry=ServiceLogin",
+              "fontColor": "#"
+            },
+            {
+              "label": "outlook",
+              "url": "https://login.live.com/login.srf?wa=wsignin1.0&rpsnv=13&ct=1541866914&rver=7.0.6737.0&wp=MBI_SSL&wreply=https%3a%2f%2foutlook.live.com%2fowa%2f%3fnlp%3d1%26RpsCsrfState%3d74115885-f160-eeda-7e66-fe1d73eb2b2e&id=292841&CBCXT=out&lw=1&fl=dob%2cflname%2cwld&cobrandid=90015",
+              "fontColor": "#"
+            }
+          ]
+        },
+        {
+          "label": "🏦banking",
+          "links": [
+            { "label": "n26", "url": "#", "fontColor": "#" },
+            { "label": "boc", "url": "#", "fontColor": "#" },
+            { "label": "alphabank", "url": "#", "fontColor": "#" }
+          ]
+        },
+        {
+          "label": "social",
+          "links": [
+            { "label": "messenger", "url": "https://www.messenger.com/login.php", "fontColor": "#" },
+            { "label": "twitter", "url": "https://twitter.com/login", "fontColor": "#" }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "dev",
+      "color": "#ff6e66",
+      "subgroups": [
+        {
+          "label": "🌐websites",
+          "links": [
+            { "label": "christoskipouros.com", "url": "http://www.christoskipouros.com/", "fontColor": "#" },
+            { "label": "christoskipouros.com (back-end)", "url": "https://shielded-peak-40823.herokuapp.com/admin", "fontColor": "#" },
+            { "label": "andromedabt.gr", "url": "http://www.andromedabt.gr/", "fontColor": "#" },
+            { "label": "andromedabt.gr (back-end)", "url": "https://cpanel.andromedabt.gr/", "fontColor": "#" },
+            { "label": "poseidonadvisors.com", "url": "#", "fontColor": "#" }
+          ]
+        },
+        {
+          "label": "🏫learning",
+          "links": [
+            {
+              "label": "freecodecamp",
+              "url": "https://auth.freecodecamp.org/login?state=g6Fo2SBTeHg0UWFYMDZYVG4tYTV6cTRabExsbVpBc3hpZDdxa6N0aWTZIEZYTHZxdEkyZUFLb1RrRU5ERHJHYThWWGx1QmpCaXg5o2NpZNkgYVVEdjlqVnFUZnhCUkUxbDYwTkE1QWY3eVRDR0U0Y3k&client=aUDv9jVqTfxBRE1l60NA5Af7yTCGE4cy&protocol=oauth2&response_type=code&redirect_uri=https%3A%2F%2Fapi.freecodecamp.org%2Fauth%2Fauth0%2Fcallback&scope=openid%20profile%20email",
+              "fontColor": "#"
+            },
+            { "label": "codepen", "url": "https://codepen.io/xk2102", "fontColor": "#" },
+            { "label": "codesandbox", "url": "https://codesandbox.io/", "fontColor": "#" },
+            { "label": "replit", "url": "https://replit.com/", "fontColor": "#" }
+          ]
+        },
+        {
+          "label": "🛠️tools",
+          "links": [
+            { "label": "github", "url": "https://github.com/login", "fontColor": "#" },
+            { "label": "vercel", "url": "#", "fontColor": "#" },
+            { "label": "heroku", "url": "https://id.heroku.com/login", "fontColor": "#" },
+            { "label": "mongodb", "url": "#", "fontColor": "#" }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "fun",
+      "color": "#7ea960",
+      "subgroups": [
+        {
+          "label": "📰news",
+          "links": [
+            { "label": "f1.com", "url": "#", "fontColor": "#" },
+            { "label": "av", "url": "https://www.athensvoice.gr/contributors/manos-voylarinos", "fontColor": "#" },
+            { "label": "sport24", "url": "https://www.sport24.gr/", "fontColor": "#" }
+          ]
+        },
+        {
+          "label": "🏆time-well-wasted",
+          "links": [
+            { "label": "youtube", "url": "https://www.youtube.com/user/xk2102", "fontColor": "#" },
+            { "label": "comics", "url": "https://getcomics.info/?s=star+wars", "fontColor": "#" }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+:root {
+  --backgroundColor1: #1a1d22;
+  --backgroundColor2: #0c0d0f;
+  --buttonBackgroundColor1: #000000;
+  --defaultFontColor: #a4b3af;
+  /* red, blue, green, purple */
+  --fontColor1: #ff6e66;
+  --fontColor2: #52b0ef;
+  --fontColor3: #7ea960;
+  --fontColor4: #b58cee;
+  --fontColor5: #897e1a;
+}
+
+body {
+  /* BACKGROUND */
+  background-image: linear-gradient(135deg, var(--backgroundColor1) 0%, var(--backgroundColor2) 100%);
+  background-attachment: fixed;
+  /* POSITION */
+  height: 100vh;
+  /* FONTS */
+  color: var(--defaultFontColor);
+  font-size: 11pt;
+  font-weight: 600;
+  font-family: "Titillium Web", sans-serif;
+  /* BORDER */
+  /* border: 2px solid #fff;
+  border-radius: 10px; */
+}
+
+.container {
+  width: 60vw;
+  margin: auto;
+  /* border: 2px solid #fff;
+  border-radius: 10px; */
+  transition: ease all 1s;
+}
+
+/* If the screen size is 992px or less */
+@media only screen and (max-width: 600px) {
+  .container {
+    width: 80vw;
+    transition: ease all 1s;
+  }
+}
+
+.group {
+  /* BORDER */
+  /* border: 2px solid #fff;
+  border-radius: 10px; */
+}
+
+.group .label {
+  /* BORDER */
+  /* border: 2px solid #fff;
+  border-radius: 10px; */
+  width: 100%;
+}
+.group .subgroups {
+  /* BORDER */
+  /* border: 2px solid #fff;
+  border-radius: 10px; */
+  display: flex;
+  flex-direction: row;
+}
+
+/* If the screen size is 992px or less */
+@media only screen and (max-width: 600px) {
+  .group .subgroups {
+    flex-direction: column;
+  }
+}
+
+.subgroup {
+  /* BORDER */
+  border: 2px solid #a4b3af;
+  border-radius: 10px;
+  margin-right: 20px;
+  padding: 5px;
+}
+
+.subgroup .label {
+  /* border: 2px solid #fff;
+  border-radius: 10px; */
+  width: 100%;
+}
+.subgroup .links {
+  /* border: 2px solid #fff;
+  border-radius: 10px; */
+}
+
+.links ul {
+  padding-left: 20px;
+}
+
+a {
+  text-decoration: none;
+  color: var(--defaultFontColor);
+}
