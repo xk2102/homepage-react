@@ -81,8 +81,13 @@
             { "label": "a-complete-guide-to-flex", "url": "https://css-tricks.com/snippets/css/a-guide-to-flexbox/", "fontColor": "#" },
             { "label": "a-complete-guide-to-grid", "url": "https://css-tricks.com/snippets/css/complete-guide-grid/", "fontColor": "#" },
             { "label": "reactjs", "url": "https://reactjs.org/docs/getting-started.html", "fontColor": "#" },
-            { "label": "reactNative", "url": "https://reactnative.dev/docs/getting-started", "fontColor": "#" }
+            { "label": "reactNative", "url": "https://reactnative.dev/docs/getting-started", "fontColor": "#" },
+            { "label": "next.js", "url": "https://nextjs.org/", "fontColor": "#" }
           ]
+        },
+        {
+          "label": "blogs",
+          "links": [{ "label": "d3-graph-gallery.com", "url": "hhttps://www.d3-graph-gallery.com/index.html", "fontColor": "#" }]
         }
       ]
     },
