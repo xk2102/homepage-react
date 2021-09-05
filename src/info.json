@@ -24,9 +24,9 @@
         {
           "label": "🏦banking",
           "links": [
-            { "label": "n26", "url": "#", "fontColor": "#" },
-            { "label": "boc", "url": "#", "fontColor": "#" },
-            { "label": "alphabank", "url": "#", "fontColor": "#" }
+            { "label": "n26", "url": "https://app.n26.com/login?_ga=2.72614163.1223318248.1630844768-934947508.1630844768", "fontColor": "#" },
+            { "label": "boc", "url": "https://online.bankofcyprus.com/netteller-web/", "fontColor": "#" },
+            { "label": "alphabank", "url": "https://secure.alpha.gr/Login/myalphaweb/el", "fontColor": "#" }
           ]
         },
         {
@@ -65,13 +65,23 @@
             { "label": "replit", "url": "https://replit.com/", "fontColor": "#" }
           ]
         },
+
         {
           "label": "🛠️tools",
           "links": [
             { "label": "github", "url": "https://github.com/login", "fontColor": "#" },
-            { "label": "vercel", "url": "#", "fontColor": "#" },
+            { "label": "vercel", "url": "https://vercel.com/login", "fontColor": "#" },
             { "label": "heroku", "url": "https://id.heroku.com/login", "fontColor": "#" },
-            { "label": "mongodb", "url": "#", "fontColor": "#" }
+            { "label": "mongodb", "url": "https://account.mongodb.com/account/login", "fontColor": "#" }
+          ]
+        },
+        {
+          "label": "📚sources",
+          "links": [
+            { "label": "a-complete-guide-to-flex", "url": "https://css-tricks.com/snippets/css/a-guide-to-flexbox/", "fontColor": "#" },
+            { "label": "a-complete-guide-to-grid", "url": "https://css-tricks.com/snippets/css/complete-guide-grid/", "fontColor": "#" },
+            { "label": "reactjs", "url": "https://reactjs.org/docs/getting-started.html", "fontColor": "#" },
+            { "label": "reactNative", "url": "https://reactnative.dev/docs/getting-started", "fontColor": "#" }
           ]
         }
       ]
@@ -83,7 +93,7 @@
         {
           "label": "📰news",
           "links": [
-            { "label": "f1.com", "url": "#", "fontColor": "#" },
+            { "label": "f1.com", "url": "https://www.formula1.com/", "fontColor": "#" },
             { "label": "av", "url": "https://www.athensvoice.gr/contributors/manos-voylarinos", "fontColor": "#" },
             { "label": "sport24", "url": "https://www.sport24.gr/", "fontColor": "#" }
           ]
