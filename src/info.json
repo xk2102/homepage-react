@@ -30,10 +30,17 @@
           ]
         },
         {
-          "label": "social",
+          "label": "🫂social",
           "links": [
             { "label": "messenger", "url": "https://www.messenger.com/login.php", "fontColor": "#" },
             { "label": "twitter", "url": "https://twitter.com/login", "fontColor": "#" }
+          ]
+        },
+        {
+          "label": "🇩🇪deutsch",
+          "links": [
+            { "label": "translate", "url": "https://translate.google.gr/?hl=el&sl=en&tl=de&op=translate", "fontColor": "#" },
+            { "label": "DaF leicht A1.2", "url": "https://www.klett-sprachen.de/dafleicht-online/_2/start.html", "fontColor": "#" }
           ]
         }
       ]
@@ -43,13 +50,15 @@
       "color": "#ff6e66",
       "subgroups": [
         {
-          "label": "🌐websites",
+          "label": "🏗️projects",
           "links": [
             { "label": "christoskipouros.com", "url": "http://www.christoskipouros.com/", "fontColor": "#" },
             { "label": "christoskipouros.com (back-end)", "url": "https://shielded-peak-40823.herokuapp.com/admin", "fontColor": "#" },
             { "label": "andromedabt.gr", "url": "http://www.andromedabt.gr/", "fontColor": "#" },
             { "label": "andromedabt.gr (back-end)", "url": "https://cpanel.andromedabt.gr/", "fontColor": "#" },
-            { "label": "poseidonadvisors.com", "url": "https://www.poseidonadvisors.com", "fontColor": "#" }
+            { "label": "poseidonadvisors.com", "url": "https://www.poseidonadvisors.com", "fontColor": "#" },
+            { "label": "📈rhoam-fx-web", "url": "https://xk2102.github.io/rhoam-fx-web", "fontColor": "#" },
+            { "label": "🎂rhoam-recipes-web", "url": "https://xk2102.github.io/rhoam-recipes-web", "fontColor": "#" }
           ]
         },
         {
@@ -87,7 +96,10 @@
         },
         {
           "label": "blogs",
-          "links": [{ "label": "d3-graph-gallery.com", "url": "hhttps://www.d3-graph-gallery.com/index.html", "fontColor": "#" }]
+          "links": [
+            { "label": "d3-graph-gallery.com", "url": "https://www.d3-graph-gallery.com/index.html", "fontColor": "#" },
+            { "label": "lemon.io", "url": "https://leimon.io/", "fontColor": "#" }
+          ]
         }
       ]
     },
