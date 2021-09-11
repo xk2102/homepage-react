@@ -119,7 +119,9 @@
           "label": "🏆time-well-wasted",
           "links": [
             { "label": "youtube", "url": "https://www.youtube.com/user/xk2102", "fontColor": "#" },
-            { "label": "comics", "url": "https://getcomics.info/?s=star+wars", "fontColor": "#" }
+            { "label": "comics", "url": "https://getcomics.info/?s=star+wars", "fontColor": "#" },
+            { "label": "torrents", "url": "http://www.aiosearch.com/cats?cat=4&t=Torrents", "fontColor": "#" },
+            { "label": "see a satelite", "url": "https://james.darpinian.com/satellites/?fbclid=IwAR3yRE61BRMkbIVnltfacMmpY7vlMjFwyHpgxJ0IycctOzlz0gqFTfRX8jU", "fontColor": "#" }
           ]
         }
       ]
