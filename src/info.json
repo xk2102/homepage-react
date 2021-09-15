@@ -58,7 +58,8 @@
             { "label": "andromedabt.gr (back-end)", "url": "https://cpanel.andromedabt.gr/", "fontColor": "#" },
             { "label": "poseidonadvisors.com", "url": "https://www.poseidonadvisors.com", "fontColor": "#" },
             { "label": "📈rhoam-fx-web", "url": "https://xk2102.github.io/rhoam-fx-web", "fontColor": "#" },
-            { "label": "🎂rhoam-recipes-web", "url": "https://xk2102.github.io/rhoam-recipes-web", "fontColor": "#" }
+            { "label": "🎂rhoam-recipes-web", "url": "https://xk2102.github.io/rhoam-recipes-web", "fontColor": "#" },
+            { "label": "saeki", "url": "https://saeki.vercel.app", "fontColor": "#" }
           ]
         },
         {
