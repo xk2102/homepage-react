@@ -34,7 +34,8 @@
           "links": [
             { "label": "messenger", "url": "https://www.messenger.com/login.php", "fontColor": "#" },
             { "label": "twitter", "url": "https://twitter.com/login", "fontColor": "#" },
-            { "label": "discord", "url": "https://discord.com/login", "fontColor": "#" }
+            { "label": "discord", "url": "https://discord.com/login", "fontColor": "#" },
+            { "label": "jira", "url": "https://id.atlassian.com/login?continue=https%3A%2F%2Fstart.atlassian.com%2F", "fontColor": "#" }
           ]
         },
         {
